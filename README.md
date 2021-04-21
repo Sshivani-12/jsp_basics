@@ -13,4 +13,4 @@ How to run on NotePad:-
 - Tomcad->webapp->projfolder(project folder).
 - Tomcad->bin-> tomcad.exc
 - If ports needs to be changed ,go to server.xml-> port numbers
-- to run the project go to browser :  http://127.0.0.1:8080/ONLINESHOPPING/
+- to run the project go to browser :  http://127.0.0.1:8080/foldername/
